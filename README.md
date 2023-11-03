@@ -24,10 +24,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain-wordmark.svg" width="50"/>
   </a>
    <a href="your-twitter-URL">
-    <img src="" width="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="50"/>
   </a>
    <a href="your-twitter-URL">
-    <img src="" width="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" width="50"/>
   </a>
    <a href="your-twitter-URL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" width="50"/>
