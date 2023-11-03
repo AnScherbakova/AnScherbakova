@@ -7,6 +7,20 @@
 
 
 
+<div id="badges">
+<a href="your-linkedin-URL">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"/>
+  </a>
+  <a href="your-linkedin-URL">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" alt="IntelliJ IDEA"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  </a>
+</div>
 
 
 <!--
