@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250"/>
 </div>
 <h1 align="center">Hi, I'm <a href="https://t.me/an_shd" target="_blank">Anastasiya Scherbakova</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
@@ -9,22 +9,19 @@
 
 <div id="badges">
 <a href="your-linkedin-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
   </a>
   <a href="your-linkedin-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  </a>
-   <a href="your-twitter-URL">
-    <img src="  https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain-wordmark.svg" width="40"/>
-  </a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
+      </a>
   <a href="your-twitter-URL">
-    <img src="" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="50"/>
+  </a>
+   <a href="your-twitter-URL">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain-wordmark.svg" width="50"/>
   </a>
    <a href="your-twitter-URL">
     <img src="" width="40"/>
@@ -33,10 +30,13 @@
     <img src="" width="40"/>
   </a>
    <a href="your-twitter-URL">
-    <img src="" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" width="50"/>
   </a>
    <a href="your-twitter-URL">
-    <img src="" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50"/>
+  </a>
+   <a href="your-youtube-URL">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="50"/>
   </a>
 
 </div>
