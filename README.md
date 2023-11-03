@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi there, I'm <a href="https://t.me/an_shd" target="_blank">Anastasiya Scherbakova</a> 
+<h1 align="center">Hi, I'm <a href="https://t.me/an_shd" target="_blank">Anastasiya Scherbakova</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a beginner java developer from Saint-Petersburg,Russia 🇷🇺</h3>
+<h3 align="center">I am a beginner java developer from Saint-Petersburg, Russia </h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
