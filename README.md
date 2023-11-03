@@ -9,17 +9,36 @@
 
 <div id="badges">
 <a href="your-linkedin-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
   </a>
   <a href="your-linkedin-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="40"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   </a>
+   <a href="your-twitter-URL">
+    <img src="  https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain-wordmark.svg" width="40"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="" width="40"/>
+  </a>
+   <a href="your-twitter-URL">
+    <img src="" width="40"/>
+  </a>
+   <a href="your-twitter-URL">
+    <img src="" width="40"/>
+  </a>
+   <a href="your-twitter-URL">
+    <img src="" width="40"/>
+  </a>
+   <a href="your-twitter-URL">
+    <img src="" width="40"/>
+  </a>
+
 </div>
 
 
