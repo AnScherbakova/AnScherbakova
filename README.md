@@ -7,7 +7,7 @@
 
 
 
-<div id="badges">
+<div id="badges" align="center">
 <a href="your-linkedin-URL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
   </a>
@@ -24,9 +24,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain-wordmark.svg" width="50"/>
   </a>
    <a href="your-twitter-URL">
-    <img src="" width="50"/>
-  </a>
-   <a href="your-twitter-URL">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" width="50"/>
   </a>
    <a href="your-twitter-URL">
@@ -41,7 +38,6 @@
    <a href="your-youtube-URL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="60"/>
   </a>
-
 </div>
 
 
