@@ -38,6 +38,9 @@
 
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnScherbakova)](https://github.com/AnScherbakova/github-profile-trophy)
+
+
 
 <!--
 **AnScherbakova/AnScherbakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
