@@ -9,16 +9,16 @@
 
 <div id="badges">
 <a href="your-linkedin-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" alt="Java"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
   </a>
   <a href="your-linkedin-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" alt="IntelliJ IDEA"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="50"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50"/>
   </a>
 </div>
 
