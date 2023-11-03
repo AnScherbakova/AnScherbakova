@@ -9,7 +9,7 @@
 
 <div id="badges">
 <a href="your-linkedin-URL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50"/>
   </a>
   <a href="your-linkedin-URL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
