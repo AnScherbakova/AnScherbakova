@@ -32,9 +32,6 @@
    <a href="your-twitter-URL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="  https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="50"/>
-  </a>
    <a href="your-youtube-URL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" width="60"/>
   </a>
