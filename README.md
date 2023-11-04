@@ -18,8 +18,9 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/>
        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" width="50"/>
 </div>
+<br><br>
 
-<div id="badges" align="center" ![](https://komarev.com/ghpvc/?username=AnScherbakova) </div>
+ ![](https://komarev.com/ghpvc/?username=AnScherbakova)
 
 
 <!--
