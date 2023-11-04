@@ -10,7 +10,7 @@
 <div id="badges" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain-wordmark.svg" width="60"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
