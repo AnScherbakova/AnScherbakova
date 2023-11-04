@@ -4,9 +4,8 @@
 <h1 align="center"> Hi, I'm <a href="https://t.me/an_shd" target="_blank">Anastasiya Scherbakova</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I am a beginner java developer from Saint-Petersburg, Russia </h3>
-<h3 align="center"> My stack </h3>
-<img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/44561/right-arrow-curving-down-emoji-clipart-md.png" height="32"/></h1>
-
+<h3 align="center"> My stack <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/44561/right-arrow-curving-down-emoji-clipart-md.png" height="25"/></h1>
+</h3>
 
 
 <div id="badges" align="center">
