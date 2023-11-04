@@ -12,6 +12,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain.svg" width="45"/>
+  <img src="https://simpleicons.org/#85EA2D.svg" width="45"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" width="45"/>
