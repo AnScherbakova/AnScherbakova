@@ -19,7 +19,7 @@
        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" width="50"/>
 </div>
 
-align="center" ![](https://komarev.com/ghpvc/?username=AnScherbakova)
+<div align="center" ![](https://komarev.com/ghpvc/?username=AnScherbakova) </div>
 
 
 <!--
