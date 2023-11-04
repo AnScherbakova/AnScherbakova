@@ -19,8 +19,7 @@
        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" width="50"/>
 </div>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnScherbakova)](https://github.com/AnScherbakova/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=AnScherbakova)
 
 
 <!--
