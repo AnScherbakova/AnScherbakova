@@ -8,9 +8,7 @@
 
 
 <div id="badges" align="center">
-<a href="your-linkedin-URL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
-  </a>
   <a href="your-linkedin-URL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
   </a>
