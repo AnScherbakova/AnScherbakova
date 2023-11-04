@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"> Hi, I'm <a href="https://t.me/an_shd" target="_blank">Anastasiya Scherbakova</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> I am a beginner java developer from Saint-Petersburg, Russia </h3>
+<h3 align="center"> I am a java developer from Saint-Petersburg, Russia </h3>
 <h3 align="center"> My stack </h3>
 
 
