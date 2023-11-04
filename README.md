@@ -17,9 +17,10 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" width="45"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/>
        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" width="50"/>
-   
-
 </div>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnScherbakova)](https://github.com/AnScherbakova/github-readme-stats)
 
 
 <!--
