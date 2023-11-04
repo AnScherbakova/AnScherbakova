@@ -14,9 +14,9 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain.svg" width="45"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" width="50"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" width="45"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/>
+       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" width="50"/>
    
 
 </div>
